@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Huddle</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_act_staff_list">Available Staff</string>
+    <string name="welcome_text">This short sample app demonstrate functionalities such as:&#xA;&#8226; Access database&#xA;&#8226; Populates a ListView with query result set&#xA;&#8226; Handles screen orientation&#xA;&#8226; Handles events from views&#xA;&#8226; Post data back and forth between Activities&#xA;&#8226; Access Android API states&#xA;&#8226; Fake delegates creation in java&#xA;&#xA;The next challenge will be to be able to introduce barcode data as image as well as string data for manipulation&#xA;&#xA;</string>
+    <string name="action_viewStaff">View Staff List</string>
+    <string name="hint_enter_name">enter your name</string>
+
+</resources>
