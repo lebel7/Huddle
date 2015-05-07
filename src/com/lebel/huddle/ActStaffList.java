@@ -69,7 +69,7 @@ public class ActStaffList extends Activity {
 
 	private void copyDatabaseToDevice() throws IOException {
 		String dbTargetPath = this.getApplicationInfo().dataDir;
-		dbTargetPath += dbTargetPath + "/" + db;
+		dbTargetPath += "/" + db;
 		InputStream myInput = this.getApplicationContext().getAssets().open(db);
 	    //String outFileName = dbTargetPath + "/" + db;
 		String outFileName = dbTargetPath;
